@@ -1,3 +1,7 @@
 *.pdf
+*.docx
+*.doc
 output_test/
+
+
 input_test/
