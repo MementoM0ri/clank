@@ -1,6 +1,7 @@
 *.pdf
 *.docx
 *.doc
+*.html
 output_test/
 
 

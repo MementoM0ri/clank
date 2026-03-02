@@ -6,9 +6,11 @@ pkgs.mkShell {
     python311Packages.pdf2image
     python311Packages.pydantic
     python311Packages.ollama
+    python311Packages.pypdf2
     poppler_utils
     ollama
     tkinter
+    
   ];
 
   shellHook = ''
