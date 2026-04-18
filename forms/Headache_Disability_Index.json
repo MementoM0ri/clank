@@ -1,0 +1,111 @@
+{
+  "form": "Headache Disability Index",
+  "answer_format": "yes_sometimes_no",
+  "choices": {
+    "YES": "YES",
+    "SOMETIMES": "SOMETIMES",
+    "NO": "NO"
+  },
+  "questions": [
+    {
+      "number": "E1",
+      "text": "Because of my headaches I feel handicapped."
+    },
+    {
+      "number": "F2",
+      "text": "Because of my headaches I feel restricted in performing my routine daily activities."
+    },
+    {
+      "number": "E3",
+      "text": "No one understands the effect my headaches have on my life."
+    },
+    {
+      "number": "F4",
+      "text": "I restrict my recreational activities (eg, sports, hobbies) because of my headaches."
+    },
+    {
+      "number": "E5",
+      "text": "My headaches make me angry."
+    },
+    {
+      "number": "E6",
+      "text": "Sometimes I feel that I am going to lose control because of my headaches."
+    },
+    {
+      "number": "F7",
+      "text": "Because of my headaches I am less likely to socialize."
+    },
+    {
+      "number": "E8",
+      "text": "My spouse (significant other), or family and friends have no idea what I am going through because of my headaches."
+    },
+    {
+      "number": "E9",
+      "text": "My headaches are so bad that I feel that I am going to go insane."
+    },
+    {
+      "number": "E10",
+      "text": "My outlook on the world is affected by my headaches."
+    },
+    {
+      "number": "E11",
+      "text": "I am afraid to go outside when I feel that a headaches is starting."
+    },
+    {
+      "number": "E12",
+      "text": "I feel desperate because of my headaches."
+    },
+    {
+      "number": "F13",
+      "text": "I am concerned that I am paying penalties at work or at home because of my headaches."
+    },
+    {
+      "number": "E14",
+      "text": "My headaches place stress on my relationships with family or friends."
+    },
+    {
+      "number": "F15",
+      "text": "I avoid being around people when I have a headache."
+    },
+    {
+      "number": "F16",
+      "text": "I believe my headaches are making it difficult for me to achieve my goals in life."
+    },
+    {
+      "number": "E17",
+      "text": "I am unable to think clearly because of my headaches."
+    },
+    {
+      "number": "F18",
+      "text": "I get tense (eg, muscle tension) because of my headaches."
+    },
+    {
+      "number": "F19",
+      "text": "I do not enjoy social gatherings because of my headaches."
+    },
+    {
+      "number": "E20",
+      "text": "I feel irritable because of my headaches."
+    },
+    {
+      "number": "F21",
+      "text": "I avoid traveling because of my headaches."
+    },
+    {
+      "number": "E22",
+      "text": "My headaches make me feel confused."
+    },
+    {
+      "number": "E23",
+      "text": "My headaches make me feel frustrated."
+    },
+    {
+      "number": "F24",
+      "text": "I find it difficult to read because of my headaches."
+    },
+    {
+      "number": "F25",
+      "text": "I find it difficult to focus my attention away from my headaches and on other things."
+    }
+  ]
+}

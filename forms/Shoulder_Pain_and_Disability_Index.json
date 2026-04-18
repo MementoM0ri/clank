@@ -1,0 +1,127 @@
+{
+  "form": "Shoulder Pain and Disability Index (SPADI)",
+  "answer_format": "numeric_scale",
+  "scale": {
+    "min": 0,
+    "max": 10
+  },
+  "questions": [
+    {
+      "number": 1,
+      "section": "Pain Scale",
+      "text": "At its worst?",
+      "scale_labels": {
+        "0": "No pain at all",
+        "10": "Worst pain imaginable"
+      }
+    },
+    {
+      "number": 2,
+      "section": "Pain Scale",
+      "text": "When lying on the involved side?",
+      "scale_labels": {
+        "0": "No pain at all",
+        "10": "Worst pain imaginable"
+      }
+    },
+    {
+      "number": 3,
+      "section": "Pain Scale",
+      "text": "Reaching for something on a high shelf?",
+      "scale_labels": {
+        "0": "No pain at all",
+        "10": "Worst pain imaginable"
+      }
+    },
+    {
+      "number": 4,
+      "section": "Pain Scale",
+      "text": "Touching the back of your neck?",
+      "scale_labels": {
+        "0": "No pain at all",
+        "10": "Worst pain imaginable"
+      }
+    },
+    {
+      "number": 5,
+      "section": "Pain Scale",
+      "text": "Pushing with the involved arm?",
+      "scale_labels": {
+        "0": "No pain at all",
+        "10": "Worst pain imaginable"
+      }
+    },
+    {
+      "number": 1,
+      "section": "Disability Scale",
+      "text": "Washing your hair?",
+      "scale_labels": {
+        "0": "No difficulty",
+        "10": "So difficult it requires help"
+      }
+    },
+    {
+      "number": 2,
+      "section": "Disability Scale",
+      "text": "Washing your back?",
+      "scale_labels": {
+        "0": "No difficulty",
+        "10": "So difficult it requires help"
+      }
+    },
+    {
+      "number": 3,
+      "section": "Disability Scale",
+      "text": "Putting on an undershirt or pullover sweater?",
+      "scale_labels": {
+        "0": "No difficulty",
+        "10": "So difficult it requires help"
+      }
+    },
+    {
+      "number": 4,
+      "section": "Disability Scale",
+      "text": "Putting on a shirt that buttons down the front?",
+      "scale_labels": {
+        "0": "No difficulty",
+        "10": "So difficult it requires help"
+      }
+    },
+    {
+      "number": 5,
+      "section": "Disability Scale",
+      "text": "Putting on your pants?",
+      "scale_labels": {
+        "0": "No difficulty",
+        "10": "So difficult it requires help"
+      }
+    },
+    {
+      "number": 6,
+      "section": "Disability Scale",
+      "text": "Placing an object on a high shelf?",
+      "scale_labels": {
+        "0": "No difficulty",
+        "10": "So difficult it requires help"
+      }
+    },
+    {
+      "number": 7,
+      "section": "Disability Scale",
+      "text": "Carrying a heavy object of 10 pounds?",
+      "scale_labels": {
+        "0": "No difficulty",
+        "10": "So difficult it requires help"
+      }
+    },
+    {
+      "number": 8,
+      "section": "Disability Scale",
+      "text": "Removing something from your back pocket?",
+      "scale_labels": {
+        "0": "No difficulty",
+        "10": "So difficult it requires help"
+      }
+    }
+  ]
+}

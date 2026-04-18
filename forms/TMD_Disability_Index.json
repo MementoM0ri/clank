@@ -1,0 +1,126 @@
+{
+  "form": "TMD Disability Index",
+  "answer_format": "multiple_choice",
+  "questions": [
+    {
+      "number": 1,
+      "section": "SECTION 1 - Communication (talking)",
+      "text": "How much can you talk without pain, fatigue or discomfort?",
+      "choices": {
+        "A": "I can talk as much as I want without pain, fatigue or discomfort",
+        "B": "I can talk as much as I want, but it causes some pain, fatigue and/or discomfort",
+        "C": "Pain prevents me from talking as often as I would like",
+        "D": "Pain prevents me from talking at all",
+        "E": "Not applicable"
+      }
+    },
+    {
+      "number": 2,
+      "section": "SECTION 2 - Normal living activities (brushing teeth/flossing)",
+      "text": "How well can you care for your teeth and gums?",
+      "choices": {
+        "A": "I can care for my teeth and gums without limitation without fatigue and/or discomfort",
+        "B": "I can care for my teeth and gums as thoroughly as I wish, but it causes some pain, fatigue and/or discomfort",
+        "C": "Pain, fatigue and/or discomfort prevent me from brushing my teeth and gums as thoroughly and/or as often as I would like",
+        "D": "Pain, fatigue and/or discomfort prevent me from brushing my teeth and gums at all",
+        "E": "Not applicable"
+      }
+    },
+    {
+      "number": 3,
+      "section": "SECTION 3 - Normal living activities (eating, chewing)",
+      "text": "How well can you eat and chew?",
+      "choices": {
+        "A": "I can eat and chew without limitation, pain, fatigue and/or discomfort",
+        "B": "I can eat and chew foods that I desire, but it causes pain, fatigue and/or discomfort",
+        "C": "Pain, fatigue and/or discomfort prevent me from eating and chewing foods that I would like",
+        "D": "Pain, fatigue and/or discomfort prevent me from eating and chewing at all",
+        "E": "Not applicable"
+      }
+    },
+    {
+      "number": 4,
+      "section": "SECTION 4 - Social/recreational activities",
+      "text": "How well can you participate in normal social life and/or recreational activities?",
+      "choices": {
+        "A": "I do not experience fatigue or pain in my temples",
+        "B": "I experience fatigue or pain in my temples, but it does not interfere with my social and/or recreational activities",
+        "C": "Fatigue and/or pain in my temples interferes with my social and/or activities, but I can accomplish any task and I still get some enjoyment out of life",
+        "D": "Fatigue and/or pain in my temples significantly reduces my social and/or recreational activities",
+        "E": "Fatigue and/or pain in my temples prevents me from participating in any social and/or recreational activities"
+      }
+    },
+    {
+      "number": 5,
+      "section": "SECTION 5 - Non-specialized jaw activities (yawning, mouth opening)",
+      "text": "How well can you yawn or open your mouth fully wide open?",
+      "choices": {
+        "A": "I have no limitation opening, so I can yawn, sing, shout, play musical instruments and chew with ease",
+        "B": "I have some limitation opening, but I can yawn, sing, shout, play musical instruments and chew with some difficulty",
+        "C": "I have moderate limitation opening my mouth",
+        "D": "I have severe limitation opening my mouth",
+        "E": "I cannot open my mouth"
+      }
+    },
+    {
+      "number": 6,
+      "section": "SECTION 6 - Sexual function",
+      "text": "How well can you engage in customary sexual activities?",
+      "choices": {
+        "A": "I can engage in all customary sexual activities without limitation, fatigue, pain and/or discomfort",
+        "B": "I can engage in all customary sexual activities, but it causes fatigue, pain and/or discomfort",
+        "C": "Fatigue, pain and/or discomfort limit my customary sexual activities",
+        "D": "Fatigue, pain and/or discomfort prevent me from engaging in any sexual activities",
+        "E": "Not applicable"
+      }
+    },
+    {
+      "number": 7,
+      "section": "SECTION 7 - Sleep",
+      "text": "How well do you sleep?",
+      "choices": {
+        "A": "I have no difficulty sleeping because of pain in my jaw and face",
+        "B": "I sometimes have difficulty sleeping because of pain in my jaw and face",
+        "C": "I often have difficulty sleeping because of pain in my jaw and face",
+        "D": "I always have difficulty sleeping because of pain in my jaw and face",
+        "E": "Pain in my jaw and/or face prevents me from sleeping at all"
+      }
+    },
+    {
+      "number": 8,
+      "section": "SECTION 8 - Effects of treatment",
+      "text": "How effective is treatment in controlling or relieving your pain and discomfort?",
+      "choices": {
+        "A": "Treatment completely relieves my pain and discomfort",
+        "B": "Treatment substantially relieves my pain and discomfort",
+        "C": "Treatment moderately relieves my pain and discomfort",
+        "D": "Treatment minimally relieves my pain and discomfort",
+        "E": "Treatment does not relieve my pain and discomfort at all"
+      }
+    },
+    {
+      "number": 9,
+      "section": "SECTION 9 - Tinnitus",
+      "text": "Do you experience ringing in your ear(s)?",
+      "choices": {
+        "A": "I do not experience ringing in my ear(s)",
+        "B": "I experience ringing in my ear(s), but it does not interfere with my daily activities or sleep",
+        "C": "I experience ringing in my ear(s) that moderately interferes with my daily activities and/or sleep",
+        "D": "I experience ringing in my ear(s) that substantially interferes with my daily activities and/or sleep",
+        "E": "I experience ringing in my ear(s) that completely interferes with my daily activities and/or sleep"
+      }
+    },
+    {
+      "number": 10,
+      "section": "SECTION 10 - Dizziness",
+      "text": "Do you experience dizziness?",
+      "choices": {
+        "A": "I do not experience dizziness",
+        "B": "I experience dizziness, but it does not interfere with my daily activities",
+        "C": "I experience dizziness that moderately interferes with my daily activities",
+        "D": "I experience dizziness that substantially interferes with my daily activities",
+        "E": "I experience dizziness that completely interferes with my daily activities"
+      }
+    }
+  ]
+}

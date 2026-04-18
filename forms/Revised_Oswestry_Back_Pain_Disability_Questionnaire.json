@@ -1,0 +1,136 @@
+{
+  "form": "Revised Oswestry Back Pain Disability Questionnaire",
+  "answer_format": "multiple_choice",
+  "questions": [
+    {
+      "number": 1,
+      "section": "SECTION 1 - Pain Intensity",
+      "text": "Rate your current back pain intensity",
+      "choices": {
+        "A": "I can tolerate the pain I have without having to use pain medication",
+        "B": "The pain is bad but I manage without taking pain medication",
+        "C": "Pain medication gives complete relief from pain",
+        "D": "Pain medication gives moderate relief from pain",
+        "E": "Pain medication gives very little relief from pain",
+        "F": "Pain medication has no effect on the pain and I do not use it"
+      }
+    },
+    {
+      "number": 2,
+      "section": "SECTION 2 - Personal Care",
+      "text": "How does back pain affect your ability to take care of yourself (washing, dressing)?",
+      "choices": {
+        "A": "I do not have to change my way of washing or dressing in order to avoid pain",
+        "B": "I do not normally change my way of washing or dressing even though it causes some pain",
+        "C": "Washing and dressing increase the pain but I manage not to change my way of doing it",
+        "D": "Washing and dressing increases the pain and I find it necessary to change my way of doing it",
+        "E": "Because of the pain, I am unable to do some washing and dressing without help",
+        "F": "Because of the pain, I am unable to do any washing or dressing without help"
+      }
+    },
+    {
+      "number": 3,
+      "section": "SECTION 3 - Lifting",
+      "text": "How does back pain affect your ability to lift heavy weights?",
+      "choices": {
+        "A": "I can lift heavy weights without extra pain",
+        "B": "I can lift heavy weights but it gives extra pain",
+        "C": "Pain prevents me from lifting heavy weights off the floor but I can manage if they are conveniently positioned, e.g. on a table",
+        "D": "Pain prevents me from lifting heavy weights but I can manage light to medium weights if they are conveniently positioned",
+        "E": "I can only lift very light weights",
+        "F": "I cannot lift or carry anything at all"
+      }
+    },
+    {
+      "number": 4,
+      "section": "SECTION 4 - Walking",
+      "text": "How does back pain affect your ability to walk?",
+      "choices": {
+        "A": "Pain does not prevent me from walking any distance",
+        "B": "Pain prevents me from walking more than 1 mile",
+        "C": "Pain prevents me from walking more than 1/4 mile",
+        "D": "Pain prevents me from walking more than 100 yards",
+        "E": "I can only walk using a stick or crutches",
+        "F": "I am in bed most of the time and have to crawl to the toilet"
+      }
+    },
+    {
+      "number": 5,
+      "section": "SECTION 5 - Sitting",
+      "text": "How does back pain affect your ability to sit?",
+      "choices": {
+        "A": "I can sit in any chair as long as I like",
+        "B": "I can only sit in my favorite chair as long as I like",
+        "C": "Pain prevents me sitting more than 1 hour",
+        "D": "Pain prevents me from sitting more than 1/2 hour",
+        "E": "Pain prevents me from sitting more than 10 minutes",
+        "F": "Pain prevents me from sitting at all"
+      }
+    },
+    {
+      "number": 6,
+      "section": "SECTION 6 - Standing",
+      "text": "How does back pain affect your ability to stand?",
+      "choices": {
+        "A": "I can stand as long as I want without extra pain",
+        "B": "I can stand as long as I want but it gives me extra pain",
+        "C": "Pain prevents me from standing for more than 1 hour",
+        "D": "Pain prevents me from standing for more than 1/2 hour",
+        "E": "Pain prevents me from standing for more than 10 minutes",
+        "F": "Pain prevents me from standing at all"
+      }
+    },
+    {
+      "number": 7,
+      "section": "SECTION 7 - Sleeping",
+      "text": "How does back pain affect your sleep?",
+      "choices": {
+        "A": "Pain does not prevent me from sleeping well",
+        "B": "I can sleep well only by using tablets",
+        "C": "Even when I take tablets I have less than 6 hours sleep",
+        "D": "Even when I take tablets I have less than 4 hours sleep",
+        "E": "Even when I take tablets I have less than 2 hours sleep",
+        "F": "Pain prevents me from sleeping at all"
+      }
+    },
+    {
+      "number": 8,
+      "section": "SECTION 8 - Social Life",
+      "text": "How does back pain affect your social life?",
+      "choices": {
+        "A": "My social life is normal and gives me no extra pain",
+        "B": "My social life is normal but increases the degree of pain",
+        "C": "Pain has no significant effect on my social life apart from limiting my more energetic interests, e.g. dancing, etc.",
+        "D": "Pain has restricted my social life and I do not go out as often",
+        "E": "Pain has restricted my social life to my home",
+        "F": "I have no social life because of pain"
+      }
+    },
+    {
+      "number": 9,
+      "section": "SECTION 9 - Traveling",
+      "text": "How does back pain affect your ability to travel?",
+      "choices": {
+        "A": "I can travel anywhere without extra pain",
+        "B": "I can travel anywhere but it gives me extra pain",
+        "C": "Pain is bad but I manage journeys over 2 hours",
+        "D": "Pain restricts me to journeys of less than 1 hour",
+        "E": "Pain restricts me to short necessary journeys under 30 minutes",
+        "F": "Pain prevents me from traveling except to the doctor or hospital"
+      }
+    },
+    {
+      "number": 10,
+      "section": "SECTION 10 - Changing Degree of Pain",
+      "text": "How is your pain changing?",
+      "choices": {
+        "A": "My pain is rapidly getting better",
+        "B": "My pain fluctuates, but overall is definitely getting better",
+        "C": "My pain seems to be getting better but improvement is slow",
+        "D": "My pain is neither getting better nor worse",
+        "E": "My pain is gradually worsening",
+        "F": "My pain is rapidly worsening"
+      }
+    }
+  ]
+}

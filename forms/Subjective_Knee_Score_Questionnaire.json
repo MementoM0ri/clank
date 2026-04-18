@@ -1,0 +1,107 @@
+{
+  "form": "Subjective Knee Score Questionnaire",
+  "answer_format": "checkbox_multiple",
+  "questions": [
+    {
+      "number": 1,
+      "section": "PAIN",
+      "text": "Rate the level of pain in your knee",
+      "choices": {
+        "1": "No pain, activities are unlimited, I do not notice my knee",
+        "2": "Light pain while overusing or when doing strenuous activity. I don't think that my knee is a big problem",
+        "3": "Some problems with strenuous activities. I'm limited or can't do activities such as heavy work. Occasionally during simple walking I have minor symptoms. Some medicine is needed",
+        "4": "Pain often or with vigorous activities such as sports. Activities unlimited with light activities. Walking over 2 km possible. Pain medicine needed weekly or regularly",
+        "5": "Pain limits activities. I can't do sports. Walking distance varies by knee condition. Walking less than 2 km due to knee pain. Pain medicine needed regularly",
+        "6": "Pain does not limit. In all activities. Pain medicine is not needed",
+        "7": "Pain limits. No pain during simple daily activities. Minimal symptoms with working. Going up and down from standing to sitting",
+        "8": "Pain present during. Simple daily activities"
+      }
+    },
+    {
+      "number": 2,
+      "section": "SWELLING",
+      "text": "Rate the level of swelling in your knee",
+      "choices": {
+        "1": "None. Not aware of swelling",
+        "2": "Occasional. Only after more demanding activities",
+        "3": "Some limitations with strenuous activity only. No interferes with daily life",
+        "4": "Occasionally. Occasional swelling with daily activity",
+        "5": "Frequently. Frequent swelling with daily activity that interferes with normal activity",
+        "6": "Severe problems. Constant swelling"
+      }
+    },
+    {
+      "number": 3,
+      "section": "GIVING WAY/INSTABILITY",
+      "text": "Rate the stability of your knee (does your knee give out)",
+      "choices": {
+        "1": "Never",
+        "2": "Rare, only with athletic activities",
+        "3": "Sometimes during athletic or vigorous activities",
+        "4": "Frequent. Often with vigorous activities, occasionally with daily activities",
+        "5": "Every step. Frequently during daily activities. Requires support to walk",
+        "6": "Every step constantly"
+      }
+    },
+    {
+      "number": 4,
+      "section": "OVERALL ACTIVITY LEVEL",
+      "text": "Rate your overall activity level",
+      "choices": {
+        "1": "Very strenuous activities, such as jumping or pivoting as in basketball or soccer",
+        "2": "Strenuous activities, such as heavy physical work, skiing or tennis",
+        "3": "Moderate activities such as moderate physical work, running or jogging",
+        "4": "Light activities such as walking, housework or yard work",
+        "5": "Unable to perform any of the above activities due to knee"
+      }
+    },
+    {
+      "number": 5,
+      "section": "WALKING",
+      "text": "Rate your ability to walk",
+      "choices": {
+        "1": "Nearly unlimited",
+        "2": "Some limitations, able to walk over 2 km",
+        "3": "Moderate problems, only 1-2 km possible",
+        "4": "Severe problems, only 0-1 km possible",
+        "5": "Severely limited/unable"
+      }
+    },
+    {
+      "number": 6,
+      "section": "STAIRS",
+      "text": "Rate your ability to use stairs",
+      "choices": {
+        "1": "No problems",
+        "2": "Slight problems",
+        "3": "One step at a time with some difficulty",
+        "4": "Can go up but not down",
+        "5": "Severe problems, need handrail or cane"
+      }
+    },
+    {
+      "number": 7,
+      "section": "RUNNING",
+      "text": "Rate your ability to run",
+      "choices": {
+        "1": "Nearly unlimited. Fully competitive",
+        "2": "Some limitations, able to run 1-2 km or more",
+        "3": "Moderate problems, jogging less than 1 km only",
+        "4": "Severe problems, jogging less than 0.5 km only",
+        "5": "Severely limited, unable, cannot jog at all"
+      }
+    },
+    {
+      "number": 8,
+      "section": "JUMPING AND TWISTING",
+      "text": "Rate your ability to jump and twist",
+      "choices": {
+        "1": "No problems",
+        "2": "Mild problems",
+        "3": "Moderate problems",
+        "4": "Severe problems",
+        "5": "Unable. Can't do at all"
+      }
+    }
+  ]
+}

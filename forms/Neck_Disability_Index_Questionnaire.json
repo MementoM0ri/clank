@@ -1,0 +1,136 @@
+{
+  "form": "Neck Disability Index Questionnaire",
+  "answer_format": "multiple_choice",
+  "questions": [
+    {
+      "number": 1,
+      "section": "SECTION 1 - Pain Intensity",
+      "text": "Rate your current neck pain intensity",
+      "choices": {
+        "A": "I have no pain at the moment",
+        "B": "The pain is very mild at the moment",
+        "C": "The pain is moderate at the moment",
+        "D": "The pain is fairly severe at the moment",
+        "E": "The pain is very severe at the moment",
+        "F": "The pain is the worst imaginable at the moment"
+      }
+    },
+    {
+      "number": 2,
+      "section": "SECTION 2 - Personal Care (washing, dressing, etc.)",
+      "text": "How does neck pain affect your ability to look after yourself?",
+      "choices": {
+        "A": "I can look after myself normally without causing extra pain",
+        "B": "I can look after myself normally but it causes extra pain",
+        "C": "It is painful to look after myself and I am slow and careful",
+        "D": "I need some help but manage most of my personal care",
+        "E": "I need help every day in most aspects of self-care",
+        "F": "I do not get dressed, I wash with difficulty and stay in bed"
+      }
+    },
+    {
+      "number": 3,
+      "section": "SECTION 3 - Lifting",
+      "text": "How does neck pain affect your ability to lift heavy weights?",
+      "choices": {
+        "A": "I can lift heavy weights without extra pain",
+        "B": "I can lift heavy weights but it gives extra pain",
+        "C": "Pain prevents me from lifting heavy objects off the floor, but I can manage if they are conveniently positioned, e.g. on a table",
+        "D": "Pain prevents me from lifting heavy weights but I can manage light to medium weights if they are conveniently positioned",
+        "E": "I can lift very light weights",
+        "F": "I cannot lift or carry anything at all"
+      }
+    },
+    {
+      "number": 4,
+      "section": "SECTION 4 - Reading",
+      "text": "How does neck pain affect your ability to read?",
+      "choices": {
+        "A": "I can read as much as I want to with no pain in my neck",
+        "B": "I can read as much as I want to with slight pain in my neck",
+        "C": "I can read as much as I want with moderate pain in my neck",
+        "D": "I can't read as much as I want because of moderate pain in my neck",
+        "E": "I can hardly read at all because of severe pain in my neck",
+        "F": "I cannot read at all"
+      }
+    },
+    {
+      "number": 5,
+      "section": "SECTION 5 - Headaches",
+      "text": "Do you have headaches?",
+      "choices": {
+        "A": "I have no headaches at all",
+        "B": "I have slight headaches which come infrequently",
+        "C": "I have moderate headaches which come infrequently",
+        "D": "I have moderate headaches which come frequently",
+        "E": "I have severe headaches which come frequently",
+        "F": "I have headaches almost all the time"
+      }
+    },
+    {
+      "number": 6,
+      "section": "SECTION 6 - Concentration",
+      "text": "How does neck pain affect your ability to concentrate?",
+      "choices": {
+        "A": "I can concentrate fully when I want to with no difficulty",
+        "B": "I can concentrate fully when I want to with slight difficulty",
+        "C": "I have a fair degree of difficulty in concentrating when I want to",
+        "D": "I have a lot of difficulty in concentrating when I want to",
+        "E": "I have a great deal of difficulty in concentrating when I want to",
+        "F": "I cannot concentrate at all"
+      }
+    },
+    {
+      "number": 7,
+      "section": "SECTION 7 - Work",
+      "text": "How does neck pain affect your ability to work?",
+      "choices": {
+        "A": "I can do as much work as I want to",
+        "B": "I can only do my usual work, but no more",
+        "C": "I can do most of my usual work, but no more",
+        "D": "I cannot do my usual work",
+        "E": "I can hardly do any work at all",
+        "F": "I can't do any work at all"
+      }
+    },
+    {
+      "number": 8,
+      "section": "SECTION 8 - Driving",
+      "text": "How does neck pain affect your ability to drive?",
+      "choices": {
+        "A": "I can drive my car without any neck pain",
+        "B": "I can drive my car as long as I want with slight pain in my neck",
+        "C": "I can drive my car as long as I want with moderate pain in my neck",
+        "D": "I can't drive my car as long as I want because of moderate pain in my neck",
+        "E": "I can hardly drive at all because of severe pain in my neck",
+        "F": "I can't drive my car at all"
+      }
+    },
+    {
+      "number": 9,
+      "section": "SECTION 9 - Sleeping",
+      "text": "How does neck pain affect your sleep?",
+      "choices": {
+        "A": "I have no trouble sleeping",
+        "B": "My sleep is slightly disturbed (less than 1 hr. sleepless)",
+        "C": "My sleep is mildly disturbed (1-2 hrs. sleepless)",
+        "D": "My sleep is moderately disturbed (2-3 hrs. sleepless)",
+        "E": "My sleep is greatly disturbed (3-5 hrs. sleepless)",
+        "F": "My sleep is completely disturbed (5-7 hrs. sleepless)"
+      }
+    },
+    {
+      "number": 10,
+      "section": "SECTION 10 - Recreation",
+      "text": "How does neck pain affect your ability to engage in recreation activities?",
+      "choices": {
+        "A": "I am able to engage in all my recreation activities with no neck pain at all",
+        "B": "I am able to engage in all my recreation activities, with some pain in my neck",
+        "C": "I am able to engage in most, but not all of my usual recreation activities because of pain in my neck",
+        "D": "I am able to engage in a few of my usual recreation activities because of pain in my neck",
+        "E": "I can hardly do any recreation activities because of pain in my neck",
+        "F": "I can't do any recreation activities at all"
+      }
+    }
+  ]
+}

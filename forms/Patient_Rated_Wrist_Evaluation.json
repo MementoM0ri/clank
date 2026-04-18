@@ -1,0 +1,145 @@
+{
+  "form": "Patient Rated Wrist Evaluation",
+  "answer_format": "numeric_scale",
+  "scale": {
+    "min": 0,
+    "max": 10
+  },
+  "questions": [
+    {
+      "number": 1,
+      "section": "I. PAIN",
+      "text": "At rest",
+      "scale_labels": {
+        "0": "No Pain",
+        "10": "Worst Ever"
+      }
+    },
+    {
+      "number": 2,
+      "section": "I. PAIN",
+      "text": "When doing a task with a repeated wrist movement",
+      "scale_labels": {
+        "0": "No Pain",
+        "10": "Worst Ever"
+      }
+    },
+    {
+      "number": 3,
+      "section": "I. PAIN",
+      "text": "When lifting a heavy object",
+      "scale_labels": {
+        "0": "No Pain",
+        "10": "Worst Ever"
+      }
+    },
+    {
+      "number": 4,
+      "section": "I. PAIN",
+      "text": "When it is at its worst",
+      "scale_labels": {
+        "0": "No Pain",
+        "10": "Worst Ever"
+      }
+    },
+    {
+      "number": 5,
+      "section": "I. PAIN",
+      "text": "How often do you have pain",
+      "scale_labels": {
+        "0": "Never",
+        "10": "Always"
+      }
+    },
+    {
+      "number": 1,
+      "section": "II. FUNCTION - A. Specific Activities",
+      "text": "Turn a door knob using my affected hand",
+      "scale_labels": {
+        "0": "No Difficulty",
+        "10": "Unable to Do"
+      }
+    },
+    {
+      "number": 2,
+      "section": "II. FUNCTION - A. Specific Activities",
+      "text": "Cut meat using a knife in my affected hand",
+      "scale_labels": {
+        "0": "No Difficulty",
+        "10": "Unable to Do"
+      }
+    },
+    {
+      "number": 3,
+      "section": "II. FUNCTION - A. Specific Activities",
+      "text": "Fasten buttons on my shirt",
+      "scale_labels": {
+        "0": "No Difficulty",
+        "10": "Unable to Do"
+      }
+    },
+    {
+      "number": 4,
+      "section": "II. FUNCTION - A. Specific Activities",
+      "text": "Use my affected hand to push up from a chair",
+      "scale_labels": {
+        "0": "No Difficulty",
+        "10": "Unable to Do"
+      }
+    },
+    {
+      "number": 5,
+      "section": "II. FUNCTION - A. Specific Activities",
+      "text": "Carry a 10 lb object in my affected hand",
+      "scale_labels": {
+        "0": "No Difficulty",
+        "10": "Unable to Do"
+      }
+    },
+    {
+      "number": 6,
+      "section": "II. FUNCTION - A. Specific Activities",
+      "text": "Use bathroom tissue with my affected hand",
+      "scale_labels": {
+        "0": "No Difficulty",
+        "10": "Unable to Do"
+      }
+    },
+    {
+      "number": 1,
+      "section": "II. FUNCTION - B. Usual Activities",
+      "text": "Personal care activities (dressing, washing)",
+      "scale_labels": {
+        "0": "No Difficulty",
+        "10": "Unable to Do"
+      }
+    },
+    {
+      "number": 2,
+      "section": "II. FUNCTION - B. Usual Activities",
+      "text": "Household work (cleaning, maintenance)",
+      "scale_labels": {
+        "0": "No Difficulty",
+        "10": "Unable to Do"
+      }
+    },
+    {
+      "number": 3,
+      "section": "II. FUNCTION - B. Usual Activities",
+      "text": "Work (your job or usual everyday work)",
+      "scale_labels": {
+        "0": "No Difficulty",
+        "10": "Unable to Do"
+      }
+    },
+    {
+      "number": 4,
+      "section": "II. FUNCTION - B. Usual Activities",
+      "text": "Recreational activities",
+      "scale_labels": {
+        "0": "No Difficulty",
+        "10": "Unable to Do"
+      }
+    }
+  ]
+}

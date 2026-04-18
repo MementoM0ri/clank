@@ -1,0 +1,66 @@
+{
+  "form": "Neck Bournemouth Questionnaire",
+  "answer_format": "numeric_scale",
+  "scale": {
+    "min": 0,
+    "max": 10
+  },
+  "questions": [
+    {
+      "number": 1,
+      "text": "Over the past week, on average, how would you rate your neck pain?",
+      "scale_labels": {
+        "0": "No pain",
+        "10": "Worst pain possible"
+      }
+    },
+    {
+      "number": 2,
+      "text": "Over the past week, how much has your neck pain interfered with your daily activities (housework, washing, dressing, lifting, reading, driving)?",
+      "scale_labels": {
+        "0": "No interference",
+        "10": "Unable to carry out activity"
+      }
+    },
+    {
+      "number": 3,
+      "text": "Over the past week, how much has your neck pain interfered with your ability to take part in recreational, social, and family activities?",
+      "scale_labels": {
+        "0": "No interference",
+        "10": "Unable to carry out activity"
+      }
+    },
+    {
+      "number": 4,
+      "text": "Over the past week, how anxious (tense, uptight, irritable, difficulty in concentrating/relaxing) have you been feeling?",
+      "scale_labels": {
+        "0": "Not at all anxious",
+        "10": "Extremely anxious"
+      }
+    },
+    {
+      "number": 5,
+      "text": "Over the past week, how depressed (down-in-the-dumps, sad, in low spirits, pessimistic, unhappy) have you been feeling?",
+      "scale_labels": {
+        "0": "Not at all depressed",
+        "10": "Extremely depressed"
+      }
+    },
+    {
+      "number": 6,
+      "text": "Over the past week, how have you felt your work (both inside and outside the home) has affected (or would affect) your neck pain?",
+      "scale_labels": {
+        "0": "Have made it no worse",
+        "10": "Have made it much worse"
+      }
+    },
+    {
+      "number": 7,
+      "text": "Over the past week, how much have you been able to control (reduce/help) your neck pain on your own?",
+      "scale_labels": {
+        "0": "Completely control it",
+        "10": "No control completely"
+      }
+    }
+  ]
+}

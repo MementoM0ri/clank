@@ -1,0 +1,90 @@
+{
+  "form": "Mayo Elbow Performance Index",
+  "answer_format": "mixed",
+  "questions": [
+    {
+      "number": 1,
+      "section": "I. PAIN",
+      "text": "Rate your elbow pain level",
+      "answer_type": "multiple_choice",
+      "choices": {
+        "0": "None",
+        "1": "Mild",
+        "2": "Moderate",
+        "3": "Severe"
+      }
+    },
+    {
+      "number": 2,
+      "section": "II. MOTION (To Be Completed by Health Care Provider)",
+      "text": "Arc of motion in degrees",
+      "answer_type": "multiple_choice",
+      "choices": {
+        "0": "Arc > 100 degrees",
+        "1": "Arc 50 - 100 degrees",
+        "2": "Arc < 50 degrees"
+      }
+    },
+    {
+      "number": 3,
+      "section": "III. STABILITY",
+      "text": "Rate the stability of your elbow",
+      "answer_type": "multiple_choice",
+      "choices": {
+        "0": "Stable",
+        "1": "Moderate instability",
+        "2": "Gross instability"
+      }
+    },
+    {
+      "number": 1,
+      "section": "IV. FUNCTION OF ELBOW",
+      "text": "Comb Hair",
+      "answer_type": "yes_no",
+      "choices": {
+        "Yes": "Able to perform the listed task",
+        "No": "Not able to perform the listed task"
+      }
+    },
+    {
+      "number": 2,
+      "section": "IV. FUNCTION OF ELBOW",
+      "text": "Feed self",
+      "answer_type": "yes_no",
+      "choices": {
+        "Yes": "Able to perform the listed task",
+        "No": "Not able to perform the listed task"
+      }
+    },
+    {
+      "number": 3,
+      "section": "IV. FUNCTION OF ELBOW",
+      "text": "Hygiene",
+      "answer_type": "yes_no",
+      "choices": {
+        "Yes": "Able to perform the listed task",
+        "No": "Not able to perform the listed task"
+      }
+    },
+    {
+      "number": 4,
+      "section": "IV. FUNCTION OF ELBOW",
+      "text": "Shirt",
+      "answer_type": "yes_no",
+      "choices": {
+        "Yes": "Able to perform the listed task",
+        "No": "Not able to perform the listed task"
+      }
+    },
+    {
+      "number": 5,
+      "section": "IV. FUNCTION OF ELBOW",
+      "text": "Shoe",
+      "answer_type": "yes_no",
+      "choices": {
+        "Yes": "Able to perform the listed task",
+        "No": "Not able to perform the listed task"
+      }
+    }
+  ]
+}
